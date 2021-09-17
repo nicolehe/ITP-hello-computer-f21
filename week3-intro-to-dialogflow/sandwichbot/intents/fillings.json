@@ -1,0 +1,54 @@
+{
+  "id": "9427d605-1f69-4aa3-968f-cb580c85b138",
+  "parentId": "701795cd-9f2f-4850-a9d8-e4763a03eadc",
+  "rootParentId": "701795cd-9f2f-4850-a9d8-e4763a03eadc",
+  "name": "fillings",
+  "auto": true,
+  "contexts": [
+    "order_sandwich-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order_sandwich.order_sandwich-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e39fc841-db1c-4f86-bf67-c3dcc6d3a8ef",
+          "name": "fillings",
+          "required": false,
+          "dataType": "@fillings",
+          "value": "$fillings",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, so you want $fillings on your #order_sandwich-followup.numberOfSandwiches sandwiches."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

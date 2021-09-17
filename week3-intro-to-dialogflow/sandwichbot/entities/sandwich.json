@@ -1,0 +1,9 @@
+{
+  "id": "93ad6f0b-fae0-4a42-ac1c-a112af0edea5",
+  "name": "sandwich",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

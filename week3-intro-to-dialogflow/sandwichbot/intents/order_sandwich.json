@@ -1,0 +1,74 @@
+{
+  "id": "701795cd-9f2f-4850-a9d8-e4763a03eadc",
+  "name": "order_sandwich",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "order_sandwich-followup",
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9b650222-2494-4fff-b591-c020cb33debe",
+          "name": "sandwich",
+          "required": false,
+          "dataType": "@sandwich",
+          "value": "$sandwich",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1cfdf9a2-a974-465d-bd54-0d735a0067eb",
+          "name": "numberOfSandwiches",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$numberOfSandwiches",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many sandwiches do you want?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, I\u0027ll get you $numberOfSandwiches $sandwich.original. That\u0027s a $sandwich. What fillings do you want?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

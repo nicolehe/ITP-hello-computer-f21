@@ -1,0 +1,34 @@
+[
+  {
+    "value": "meat",
+    "synonyms": [
+      "meat",
+      "ham",
+      "turkey",
+      "bacon",
+      "sausage",
+      "pastrami",
+      "chicken"
+    ]
+  },
+  {
+    "value": "vegetables",
+    "synonyms": [
+      "vegetables",
+      "onions",
+      "tomatoes",
+      "lettuce",
+      "cucumber"
+    ]
+  },
+  {
+    "value": "condiments",
+    "synonyms": [
+      "condiments",
+      "ketchup",
+      "mustard",
+      "mayo",
+      "french dressing"
+    ]
+  }
+]

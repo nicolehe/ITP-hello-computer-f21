@@ -1,0 +1,9 @@
+{
+  "id": "5a2889f4-3677-4105-94d4-c512a97ad504",
+  "name": "fillings",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

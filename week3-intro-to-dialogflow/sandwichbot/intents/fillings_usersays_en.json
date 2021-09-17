@@ -1,0 +1,106 @@
+[
+  {
+    "id": "6b347f9d-0777-41b5-b6a4-63f5968070bb",
+    "data": [
+      {
+        "text": "put some ",
+        "userDefined": false
+      },
+      {
+        "text": "french dressing",
+        "meta": "@fillings",
+        "alias": "fillings",
+        "userDefined": false
+      },
+      {
+        "text": " on my ",
+        "userDefined": false
+      },
+      {
+        "text": "sandwich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad79420b-d72a-483d-b194-aaca652ae98d",
+    "data": [
+      {
+        "text": "please let me have ",
+        "userDefined": false
+      },
+      {
+        "text": "mayo",
+        "meta": "@fillings",
+        "alias": "fillings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d6442d0-4d76-4bd5-95c0-0771deb822af",
+    "data": [
+      {
+        "text": "i would like to have ",
+        "userDefined": false
+      },
+      {
+        "text": "ketchup",
+        "meta": "@fillings",
+        "alias": "fillings",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "lettuce",
+        "meta": "@fillings",
+        "alias": "fillings",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "bacon",
+        "meta": "@fillings",
+        "alias": "fillings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83678e1c-f895-400b-8d49-3675d2a5ec74",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "pastrami",
+        "meta": "@fillings",
+        "alias": "fillings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
