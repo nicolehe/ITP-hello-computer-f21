@@ -1,0 +1,54 @@
+{
+  "id": "22e7f91e-ece3-4ccc-b365-81349f581841",
+  "parentId": "c094cae7-d7b6-4a45-9774-12afd5634900",
+  "rootParentId": "c094cae7-d7b6-4a45-9774-12afd5634900",
+  "name": "right",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "dbb52c52-de8a-42ae-8302-45d425bfcb67",
+          "name": "image",
+          "required": false,
+          "dataType": "",
+          "value": "burger king",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wow, you get a free whopper!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

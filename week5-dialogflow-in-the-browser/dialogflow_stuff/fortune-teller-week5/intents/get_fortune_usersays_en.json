@@ -1,0 +1,120 @@
+[
+  {
+    "id": "8e7162bf-7996-4e0f-87c3-4613ebecee6d",
+    "data": [
+      {
+        "text": "i\u0027m ready to hear my ",
+        "userDefined": false
+      },
+      {
+        "text": "fate",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db89fc59-889a-4220-a97b-0578df77d2f2",
+    "data": [
+      {
+        "text": "what\u0027s going to ",
+        "userDefined": false
+      },
+      {
+        "text": "happen",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0129f510-0dee-4561-8b0d-e437df07b3bb",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "horoscope",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e139e417-f727-419e-a394-83bda646bf99",
+    "data": [
+      {
+        "text": "i want to know my ",
+        "userDefined": false
+      },
+      {
+        "text": "destiny",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61bfdb9f-7932-410b-a9d5-96376ec51b14",
+    "data": [
+      {
+        "text": "what\u0027s my ",
+        "userDefined": false
+      },
+      {
+        "text": "horoscope",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f87bee7d-765e-4f91-814b-8881c8634213",
+    "data": [
+      {
+        "text": "tell me my ",
+        "userDefined": false
+      },
+      {
+        "text": "future",
+        "meta": "@fortune",
+        "alias": "fortune",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

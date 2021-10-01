@@ -1,0 +1,36 @@
+{
+  "id": "f55a7e45-c81d-4253-92b5-1f06050e0564",
+  "parentId": "91297d3d-0848-40fe-beff-6da3c1100968",
+  "rootParentId": "91297d3d-0848-40fe-beff-6da3c1100968",
+  "name": "dream",
+  "auto": true,
+  "contexts": [
+    "get_fortune-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get_fortune.get_fortune-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
