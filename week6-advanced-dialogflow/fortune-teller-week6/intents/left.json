@@ -1,0 +1,54 @@
+{
+  "id": "7b4f91b5-7c95-4beb-9536-497b2bb0ba95",
+  "parentId": "c094cae7-d7b6-4a45-9774-12afd5634900",
+  "rootParentId": "c094cae7-d7b6-4a45-9774-12afd5634900",
+  "name": "left",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "458708de-c28e-42c6-abab-012e26ccd8a0",
+          "name": "image",
+          "required": false,
+          "dataType": "",
+          "value": "monster",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You see a monster! Do you fight it?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

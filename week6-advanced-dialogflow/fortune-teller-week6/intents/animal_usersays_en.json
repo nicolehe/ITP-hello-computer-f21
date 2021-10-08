@@ -1,0 +1,101 @@
+[
+  {
+    "id": "38d441c6-00a5-43f8-8d19-3c7d33c8ef42",
+    "data": [
+      {
+        "text": "my favorite fuzzy friend is the ",
+        "userDefined": false
+      },
+      {
+        "text": "hamster",
+        "meta": "@animals",
+        "alias": "animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1dee34-fe2a-4d20-9f02-9fb362f5164e",
+    "data": [
+      {
+        "text": "i love ",
+        "userDefined": false
+      },
+      {
+        "text": "chinchillas",
+        "meta": "@animals",
+        "alias": "animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "947c38f6-700e-4889-a3bc-e3fe641f6b74",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@animals",
+        "alias": "animals",
+        "userDefined": false
+      },
+      {
+        "text": "? my favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7787fc7-08ea-4b4a-891e-28ba65eaf976",
+    "data": [
+      {
+        "text": "the creature i love most is a ",
+        "userDefined": false
+      },
+      {
+        "text": "snake",
+        "meta": "@animals",
+        "alias": "animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7985bc26-671e-441e-a778-21ff20349a34",
+    "data": [
+      {
+        "text": "my favorite animal is a ",
+        "userDefined": false
+      },
+      {
+        "text": "cat",
+        "meta": "@animals",
+        "alias": "animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
